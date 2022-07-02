@@ -1,4 +1,4 @@
-# data_analysis Vehicles ads
+#Vehicles ads
 Analysis of free advertisements for vehicles at Crankshaft List site. The goal is to  determine which factors influence the price of a vehicle.
 Steps:
 Study the parameteres of cars (color,age, mileage, condition)
